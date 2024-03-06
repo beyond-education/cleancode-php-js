@@ -2,3 +2,6 @@ basketball
 - basketball shoes
 - players
 - really tall person that wins the game by themselves (emad in your team)
+
+Two teams play against one another. The goal is to score more points than the other team.
+When you score you need to show off.
