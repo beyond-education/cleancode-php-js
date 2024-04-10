@@ -1,4 +1,4 @@
-const fruits = [
+export const fruits = [
     'Banana',
     'Apple',
     'Orange',
@@ -6,4 +6,4 @@ const fruits = [
     'Mango'
 ];
 
-const numbers = [9, 7, 3, 12, 42];
+export const numbers = [9, 7, 3, 12, 42];
